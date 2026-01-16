@@ -49,10 +49,6 @@ The project uses a PCB defect dataset consisting of golden reference PCB images 
 
 ---
 
-- **Visualization:** Matplotlib, Seaborn  
-
----
-
 ## Image Processing Techniques Used
 
 - Image resizing
