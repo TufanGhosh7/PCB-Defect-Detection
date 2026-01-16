@@ -1,0 +1,15 @@
+# Core framework
+torch
+torchvision
+
+# Web app
+streamlit
+
+# Image and numerical libs
+Pillow
+numpy
+imagehash
+scikit-image
+
+# Plotting (for colormaps, optional but used)
+matplotlib
